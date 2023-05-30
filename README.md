@@ -2,7 +2,7 @@
 
 This is a portfolio showcasing my work and achievements in various fields. It includes examples of projects I have completed, skills I have acquired, and experiences I have gained. This README document provides an overview of the contents and structure of the portfolio.
 
--Table of Contents
+## Table of Contents
 
 - Introduction
 - Projects
