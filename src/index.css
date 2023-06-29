@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   --primaryColor: #161616;
   --brandColor: #ff6000;
@@ -10,18 +11,29 @@ body {
   box-sizing: border-box;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   overflow-x: hidden;
+=======
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+>>>>>>> Live
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+<<<<<<< HEAD
 * {
   border: none;
 }
 
+=======
+>>>>>>> Live
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+<<<<<<< HEAD
 
 /* scroll bar */
 ::-webkit-scrollbar {
@@ -86,3 +98,5 @@ p {
 .nav:hover {
   color: var(--brandColor);
 }
+=======
+>>>>>>> Live
